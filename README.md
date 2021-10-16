@@ -1,0 +1,1 @@
+This is a cssexercise for The Odin Project. The objective is to create a common landing page layout.
